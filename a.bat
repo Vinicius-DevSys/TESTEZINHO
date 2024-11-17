@@ -1,0 +1,1 @@
+start ../git-cmd.exe
